@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Voice Commander</string>
+    <string name="accessibility_service_label">Voice Commander Gestures</string>
+    <string name="accessibility_service_description">Allows Voice Commander to perform screen gestures like scrolling and tapping based on your voice commands.</string>
+    <string name="instructions">This app uses special permissions to work:\n\n1.  <b>Draw Over Other Apps:</b> To show the floating button.\n2.  <b>Record Audio:</b> To listen for your voice commands.\n3.  <b>Accessibility Service:</b> To perform screen gestures.</string>
+    <string name="button_enable_accessibility">Enable Accessibility Service</string>
+    <string name="button_start_service">Start Floating Button</string>
+    <string name="button_stop_service">Stop Floating Button</string>
+    <string name="notification_channel_name">Voice Commander Control</string>
+    <string name="notification_title">Voice Commander is Active</string>
+    <string name="notification_text">Tap the floating button to issue commands.</string>
+</resources>
